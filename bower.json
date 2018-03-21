@@ -1,0 +1,21 @@
+{
+  "name": "bower-grunt-starter",
+  "description": "",
+  "main": "gruntfile.js",
+  "authors": [
+    "Marcelo Torres <marcelotorres.ib@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {    
+    "jquery": "^3.3.1"    
+  }
+}
